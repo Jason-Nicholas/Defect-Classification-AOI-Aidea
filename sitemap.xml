@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/issues</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/pulls</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/actions</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/projects?query=is%3Aopen</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/security</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/commit/bd32d1f885fc21829edbf851b6727674f21a3f13</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/commit/cad30b55ceb556bd897d56c927f0cf675eebf417</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/commit/44d13e03630357982048495e3beab63fb8950007</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/releases</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/labels</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/compare</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/commit/2d787df6f94176edcfcd63c6492e33984f6988d7</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/commit/e062df9f8b99473de12b6f794b6e2fd58edd9de0</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/labels?sort=name-asc</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/labels?sort=name-desc</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/labels?sort=count-desc</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/labels?sort=count-asc</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/labels/bug</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/labels/documentation</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/labels/duplicate</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/labels/enhancement</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/labels/good%20first%20issue</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/labels/help%20wanted</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/labels/invalid</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/labels/question</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/labels/wontfix</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?state=open</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?state=closed</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/commit/a223b729aab49f88043108b237dff91182bda671</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/commit/7c14e0c3094f11d5e2f170cd5076eabeaeb99007</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/commit/083c0dd8841573fb352610fdc00d31a6b472671d</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/commit/d30dd2e377f3066d061d2931eab0558a73348f0f</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/commit/7d77ab9a7aea8919059489e98dcd56345673e8e7</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/commit/62600c718c631b482c93f94ae13d7f363ff81adf</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/commit/e20d0d0de36067fd4d9575114a2a4a13cacfbfdc</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/commit/12b1ba36fba50ea90701894097403b14e48b16b5</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/commit/a0a9dca654d7cf48a810c318b103c9e7ad5ae45b</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/commit/fed3afb3d9e87de7ff471abecabc844bbc2e4a05</loc>
+  <lastmod>2023-10-08T02:37:06+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+
+
+</urlset>
