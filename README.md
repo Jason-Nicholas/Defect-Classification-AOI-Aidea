@@ -1,7 +1,7 @@
 # Defect-Classification-AOI-Aidea
 Automated Optical Inspection (AOI) [1] is a high-speed and high-precision optical image inspection system that uses machine vision as the standard inspection technology to improve the shortcomings of traditional manual inspection using optical instruments. 
 
-#Steps
+# Steps
 Here we use the data from Industrial Technology Research Institute - Aidea to classify the defect. Unzip the file, it includes:
 
 train_images.zip： 2528 images.
@@ -15,8 +15,8 @@ Train_image
 Test_image
 Run the py file.
 
-#Results
+# Results
 9945745 % in accuracy
 
-#Reference
+# Reference
 https://aidea-web.tw/topic/285ef3be-44eb-43dd-85cc-f0388bf85ea4?lang=en
