@@ -14,13 +14,15 @@ In the training process I use the single CNN models using Efficient Net. I chang
 (0: normal, 1: void, 2: horizontal defect, 3: vertical defect, 4: edge defect, 5: particle)
 
 2. Create a folder. Put the file inside the floder. And create
-
+   
 * Train_image
 * Test_image
 * Run the py file.
 
 # Results
-99.45745 % in accuracy
+99.45745 % in accuracy (27th)
+![Screenshot (421)](https://github.com/JasonNiicholas/Defect-Classification-AOI-Aidea/assets/147288344/29eec823-cd6f-42df-9410-5b272b4feb76)
+
 
 # Reference
 https://aidea-web.tw/topic/285ef3be-44eb-43dd-85cc-f0388bf85ea4?lang=en
