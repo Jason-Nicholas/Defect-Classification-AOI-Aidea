@@ -4,15 +4,15 @@ Automated Optical Inspection (AOI) [1] is a high-speed and high-precision optica
 # Steps
 Here we use the data from Industrial Technology Research Institute - Aidea to classify the defect. Unzip the file, it includes:
 
-train_images.zip： 2528 images.
-test_images.zip：10142 images.
-train.csv：two columns, ID and Label respectively.
-test.csv：two columns, ID and Label respectively.
-ID is for the name of the png file. Label is for the class（0: normal, 1: void, 2: horizontal defect, 3: vertical defect, 4: edge defect, 5: particle）
-Create a folder. Put the file inside the floder. And create
-
-Train_image
-Test_image
+train_images.zip： 2528 images.\
+test_images.zip：10142 images.\
+train.csv：two columns, ID and Label respectively.\
+test.csv：two columns, ID and Label respectively.\
+ID is for the name of the png file. Label is for the class（0: normal, 1: void, 2: horizontal defect, 3: vertical defect, 4: edge defect, 5: particle）\
+Create a folder. Put the file inside the floder. And create\
+\
+Train_image\
+Test_image\
 Run the py file.
 
 # Results
